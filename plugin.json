@@ -1,0 +1,25 @@
+{
+  "name": "agentsos-meta-skills",
+  "version": "1.0.0",
+  "description": "AI 产品建造操作系统：四个 Skill 覆盖「怎么正确建造 → 建造什么 → 怎么安全交付 → 管道编排」完整链路。Karpathy 编程纪律 + tonny 变现视角 + AgentsOS 安全 Gate + 工作台管道。",
+  "author": {
+    "name": "AgentsOS",
+    "url": "https://github.com/Zsx154855/AgentBotOS"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "karpathy",
+    "coding-discipline",
+    "builder",
+    "security",
+    "gate",
+    "workbench",
+    "distillation",
+    "product"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
